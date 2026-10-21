@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-76a2723e-ff3f-4191-b17f-d5a68b882
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO",
+    "https://github.com/ITZ-HAKEEB/KRITIOPMUSICV2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
