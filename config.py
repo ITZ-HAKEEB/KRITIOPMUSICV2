@@ -25,7 +25,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 OWNER_ID = int(getenv("OWNER_ID"))
 
 ARC_API_URL = getenv("ARC_API_URL", "https://api.arcmusic.fun")
-ARC_API_KEY = getenv("ARC_API_KEY", "ARC5c354b8ef8b2b1ef5d9e8b")
+ARC_API_KEY = getenv("ARC_API_KEY", "ARCa6533965fe565318621ecd")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
